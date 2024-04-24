@@ -76,7 +76,7 @@ const FormLogin = () => {
               textDecoration: "underline",
             }}
           >
-            <p className="mr-3">Login dengan Google</p>
+            <p className="mr-3">Login With Google</p>
             <img className="w-[15px] h-[15px]" src={google} alt="" />
           </Link>
         </div>
